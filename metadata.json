@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Task Sync Manager",
+  "description": "A powerful task manager featuring seamless offline support, local Room database persistence, and a real-time cloud synchronization simulator with network controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
